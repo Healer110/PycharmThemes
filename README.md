@@ -8,6 +8,24 @@ Pycharm 导入主题采用左上角菜单栏：File --> Import Seitings...
 
 ### 2. Pycharm Monokai 自定义主题
 
-预览图：
+前端预览图：
 
-![前端](https://www.zybuluo.com/static/img/logo.png)
+![前端](https://github.com/PythonTra1nee/PycharmThemes/blob/master/Monokai/img/monkai1.jpg?raw=true)
+
+
+Python预览图：
+
+![Python](https://github.com/PythonTra1nee/PycharmThemes/blob/master/Monokai/img/monokai2.jpg?raw=true)
+
+### 3. Pycharm Son of obsidian 自定义主题
+
+前端预览图：
+
+![前端](https://github.com/PythonTra1nee/PycharmThemes/blob/master/SonOfObsidian/img/SonOfObsidian1.jpg?raw=true)
+
+
+Python预览图：
+
+![Python](https://github.com/PythonTra1nee/PycharmThemes/blob/master/SonOfObsidian/img/SonOfObsidian2.jpg?raw=true)
+
+
